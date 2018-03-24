@@ -5,8 +5,6 @@ MORE INFO ON HEURISTICS:
 
 Programmer: Adam Mischke
 Date: Sep 18, 2017
-Class: 
-	CSCI 4350 Open Lab 1
 	Solving Problems By Search
 Description:
 	This program solves the n-puzzle by using A* with the following heuristics argv:
